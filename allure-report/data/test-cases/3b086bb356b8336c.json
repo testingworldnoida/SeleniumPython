@@ -1,0 +1,115 @@
+{
+  "uid" : "3b086bb356b8336c",
+  "name" : "test_verify_registration",
+  "fullName" : "test_multiWindow#test_verify_registration",
+  "historyId" : "1f0f1bc67a97951e78a667e994219094",
+  "time" : {
+    "start" : 1548876449045,
+    "stop" : 1548876469246,
+    "duration" : 20201
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "environment_setup",
+    "time" : {
+      "start" : 1548876439913,
+      "stop" : 1548876449042,
+      "duration" : 9129
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d606063f640c18cf",
+      "name" : "log",
+      "source" : "d606063f640c18cf.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "986aa81690d674b5",
+      "name" : "stdout",
+      "source" : "986aa81690d674b5.txt",
+      "type" : "text/plain",
+      "size" : 54
+    }, {
+      "uid" : "5073ecf068c161b9",
+      "name" : "stderr",
+      "source" : "5073ecf068c161b9.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "environment_setup::0",
+    "time" : {
+      "start" : 1548876469249,
+      "stop" : 1548876469539,
+      "duration" : 290
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_multiWindow"
+  }, {
+    "name" : "host",
+    "value" : "TestingWorld-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_multiWindow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6136f92cf5309d01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876087722,
+        "stop" : 1548876108091,
+        "duration" : 20369
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b086bb356b8336c.json",
+  "parameterValues" : [ ]
+}

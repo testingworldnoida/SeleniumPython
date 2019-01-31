@@ -1,0 +1,85 @@
+{
+  "uid" : "422aa5bd4b75492b",
+  "name" : "test_case_firefox",
+  "fullName" : "test_FirstTestCase_firefox#test_case_firefox",
+  "historyId" : "863b8c44c9750970b3ccbc8d399ffa69",
+  "time" : {
+    "start" : 1548876389279,
+    "stop" : 1548876412509,
+    "duration" : 23230
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "154ca3bbb7e6ac7a",
+      "name" : "log",
+      "source" : "154ca3bbb7e6ac7a.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "7e210bdbec53beb4",
+      "name" : "stdout",
+      "source" : "7e210bdbec53beb4.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "f8e06afe9d41590e",
+      "name" : "stderr",
+      "source" : "f8e06afe9d41590e.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_FirstTestCase_firefox"
+  }, {
+    "name" : "host",
+    "value" : "TestingWorld-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_FirstTestCase_firefox"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "af647611743cdcb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876035018,
+        "stop" : 1548876056167,
+        "duration" : 21149
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "422aa5bd4b75492b.json",
+  "parameterValues" : [ ]
+}

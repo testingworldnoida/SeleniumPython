@@ -1,0 +1,105 @@
+{
+  "uid" : "b5ed698c3779ebf9",
+  "name" : "test_verify_registration",
+  "fullName" : "test_FetchData#test_verify_registration",
+  "historyId" : "726ccbb7e13b9bb18cc2c89c7c7ad811",
+  "time" : {
+    "start" : 1548876018482,
+    "stop" : 1548876022869,
+    "duration" : 4387
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "environment_setup",
+    "time" : {
+      "start" : 1548876007832,
+      "stop" : 1548876018479,
+      "duration" : 10647
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "40f2a2244e4f252a",
+      "name" : "log",
+      "source" : "40f2a2244e4f252a.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "1da77c7ed698bb2c",
+      "name" : "stdout",
+      "source" : "1da77c7ed698bb2c.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "29fbd509fc246deb",
+      "name" : "stderr",
+      "source" : "29fbd509fc246deb.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "environment_setup::0",
+    "time" : {
+      "start" : 1548876022871,
+      "stop" : 1548876023111,
+      "duration" : 240
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_FetchData"
+  }, {
+    "name" : "host",
+    "value" : "TestingWorld-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12400-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_FetchData"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5ed698c3779ebf9.json",
+  "parameterValues" : [ ]
+}

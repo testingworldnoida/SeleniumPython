@@ -1,0 +1,75 @@
+{
+  "uid" : "af647611743cdcb2",
+  "name" : "test_case_firefox",
+  "fullName" : "test_FirstTestCase_firefox#test_case_firefox",
+  "historyId" : "863b8c44c9750970b3ccbc8d399ffa69",
+  "time" : {
+    "start" : 1548876035018,
+    "stop" : 1548876056167,
+    "duration" : 21149
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7b1b2db3aac72a0a",
+      "name" : "log",
+      "source" : "7b1b2db3aac72a0a.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "5286217c11a0056f",
+      "name" : "stdout",
+      "source" : "5286217c11a0056f.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "738cb7cf405f54e1",
+      "name" : "stderr",
+      "source" : "738cb7cf405f54e1.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_FirstTestCase_firefox"
+  }, {
+    "name" : "host",
+    "value" : "TestingWorld-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12400-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_FirstTestCase_firefox"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af647611743cdcb2.json",
+  "parameterValues" : [ ]
+}

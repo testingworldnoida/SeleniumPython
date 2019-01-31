@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jan 31 00:56:12 IST 2019","Thu Jan 31 00:56:17 IST 2019","4662","","test_FetchData","","","","test_verify_registration",""
+"passed","Thu Jan 31 00:57:29 IST 2019","Thu Jan 31 00:57:49 IST 2019","20201","","test_multiWindow","","","","test_verify_registration",""
+"passed","Thu Jan 31 00:57:00 IST 2019","Thu Jan 31 00:57:13 IST 2019","12552","","test_MouseOperations","","","","test_mouseOperations",""
+"passed","Thu Jan 31 00:56:29 IST 2019","Thu Jan 31 00:56:52 IST 2019","23230","","test_FirstTestCase_firefox","","","","test_case_firefox",""
+"passed","Thu Jan 31 00:56:52 IST 2019","Thu Jan 31 00:57:00 IST 2019","8223","","test_KeyboardOperations","","","","test_mycase",""
+"passed","Thu Jan 31 00:56:17 IST 2019","Thu Jan 31 00:56:29 IST 2019","11768","","test_FirstTestCase","","","","test_firstcase",""

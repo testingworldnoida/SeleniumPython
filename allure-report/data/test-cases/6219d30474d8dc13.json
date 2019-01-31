@@ -1,0 +1,85 @@
+{
+  "uid" : "6219d30474d8dc13",
+  "name" : "test_firstcase",
+  "fullName" : "test_FirstTestCase#test_firstcase",
+  "historyId" : "ae7603a4b3d3ec43f5e6a34136ac7148",
+  "time" : {
+    "start" : 1548876377492,
+    "stop" : 1548876389260,
+    "duration" : 11768
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c1a57bcc49f39f7d",
+      "name" : "log",
+      "source" : "c1a57bcc49f39f7d.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "d490a569bfb3291a",
+      "name" : "stdout",
+      "source" : "d490a569bfb3291a.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "679a9dc6890644f1",
+      "name" : "stderr",
+      "source" : "679a9dc6890644f1.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_FirstTestCase"
+  }, {
+    "name" : "host",
+    "value" : "TestingWorld-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_FirstTestCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a6dc1b626faaead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876023141,
+        "stop" : 1548876035003,
+        "duration" : 11862
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6219d30474d8dc13.json",
+  "parameterValues" : [ ]
+}

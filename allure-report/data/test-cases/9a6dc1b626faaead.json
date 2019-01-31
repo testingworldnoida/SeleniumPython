@@ -1,0 +1,75 @@
+{
+  "uid" : "9a6dc1b626faaead",
+  "name" : "test_firstcase",
+  "fullName" : "test_FirstTestCase#test_firstcase",
+  "historyId" : "ae7603a4b3d3ec43f5e6a34136ac7148",
+  "time" : {
+    "start" : 1548876023141,
+    "stop" : 1548876035003,
+    "duration" : 11862
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9c29b962a4e16ee5",
+      "name" : "log",
+      "source" : "9c29b962a4e16ee5.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "5a9928a936f6af11",
+      "name" : "stdout",
+      "source" : "5a9928a936f6af11.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "5e202e84cb63e6cf",
+      "name" : "stderr",
+      "source" : "5e202e84cb63e6cf.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_FirstTestCase"
+  }, {
+    "name" : "host",
+    "value" : "TestingWorld-PC"
+  }, {
+    "name" : "thread",
+    "value" : "12400-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_FirstTestCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a6dc1b626faaead.json",
+  "parameterValues" : [ ]
+}

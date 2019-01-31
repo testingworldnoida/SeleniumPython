@@ -1,0 +1,61 @@
+[ {
+  "uid" : "8ec1ed729b21b1bc",
+  "name" : "test_verify_registration",
+  "time" : {
+    "start" : 1548876372625,
+    "stop" : 1548876377287,
+    "duration" : 4662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b086bb356b8336c",
+  "name" : "test_verify_registration",
+  "time" : {
+    "start" : 1548876449045,
+    "stop" : 1548876469246,
+    "duration" : 20201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bd50bb694480dd1",
+  "name" : "test_mouseOperations",
+  "time" : {
+    "start" : 1548876420785,
+    "stop" : 1548876433337,
+    "duration" : 12552
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "422aa5bd4b75492b",
+  "name" : "test_case_firefox",
+  "time" : {
+    "start" : 1548876389279,
+    "stop" : 1548876412509,
+    "duration" : 23230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc1947adc89c4c70",
+  "name" : "test_mycase",
+  "time" : {
+    "start" : 1548876412535,
+    "stop" : 1548876420758,
+    "duration" : 8223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6219d30474d8dc13",
+  "name" : "test_firstcase",
+  "time" : {
+    "start" : 1548876377492,
+    "stop" : 1548876389260,
+    "duration" : 11768
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

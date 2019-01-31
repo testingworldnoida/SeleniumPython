@@ -1,0 +1,122 @@
+{
+  "863b8c44c9750970b3ccbc8d399ffa69" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "422aa5bd4b75492b",
+      "reportUrl" : "http://localhost:8086/job/PythonE/18/allure/#testresult/422aa5bd4b75492b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876389279,
+        "stop" : 1548876412509,
+        "duration" : 23230
+      }
+    } ]
+  },
+  "ae7603a4b3d3ec43f5e6a34136ac7148" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6219d30474d8dc13",
+      "reportUrl" : "http://localhost:8086/job/PythonE/18/allure/#testresult/6219d30474d8dc13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876377492,
+        "stop" : 1548876389260,
+        "duration" : 11768
+      }
+    } ]
+  },
+  "ce46140052982228a783338a36f6f8cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc1947adc89c4c70",
+      "reportUrl" : "http://localhost:8086/job/PythonE/18/allure/#testresult/cc1947adc89c4c70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876412535,
+        "stop" : 1548876420758,
+        "duration" : 8223
+      }
+    } ]
+  },
+  "726ccbb7e13b9bb18cc2c89c7c7ad811" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ec1ed729b21b1bc",
+      "reportUrl" : "http://localhost:8086/job/PythonE/18/allure/#testresult/8ec1ed729b21b1bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876372625,
+        "stop" : 1548876377287,
+        "duration" : 4662
+      }
+    } ]
+  },
+  "1f0f1bc67a97951e78a667e994219094" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b086bb356b8336c",
+      "reportUrl" : "http://localhost:8086/job/PythonE/18/allure/#testresult/3b086bb356b8336c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876449045,
+        "stop" : 1548876469246,
+        "duration" : 20201
+      }
+    } ]
+  },
+  "6860964595573171f9daad238d963314" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4bd50bb694480dd1",
+      "reportUrl" : "http://localhost:8086/job/PythonE/18/allure/#testresult/4bd50bb694480dd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548876420785,
+        "stop" : 1548876433337,
+        "duration" : 12552
+      }
+    } ]
+  }
+}
